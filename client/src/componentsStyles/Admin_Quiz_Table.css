@@ -1,0 +1,15 @@
+.quiz__font__icons{
+    cursor: pointer;
+    margin: 0.5px
+    
+}
+.three__icons{
+    display:inline-block;
+    vertical-align: -5.5px;
+    color: blue;
+    cursor: pointer;
+    margin: 0.5px
+}
+.table__header__mui{
+    font-weight: bolder;
+}
